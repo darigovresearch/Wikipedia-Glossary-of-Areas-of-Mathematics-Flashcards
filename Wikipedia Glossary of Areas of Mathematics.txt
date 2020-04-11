@@ -47,41 +47,6 @@
 <li><b>Axiomatic geometry</b>: also known as <i><a href="/wiki/Synthetic_geometry" title="Synthetic geometry">synthetic geometry</a></i>: it is a branch of geometry that uses <a href="/wiki/Axioms" class="mw-redirect" title="Axioms">axioms</a> and <a href="/wiki/Logical_argument" class="mw-redirect" title="Logical argument">logical arguments</a> to draw conclusions as opposed to <a href="/wiki/Analytic_geometry" title="Analytic geometry">analytic</a> and algebraic methods.</li>
 <li><b><a href="/w/index.php?title=Axiomatic_homology_theory&amp;action=edit&amp;redlink=1" class="new" title="Axiomatic homology theory (page does not exist)">Axiomatic homology theory</a></b></li>
 <li><b><a href="/wiki/Axiomatic_set_theory" class="mw-redirect" title="Axiomatic set theory">Axiomatic set theory</a></b>: the study of systems of <a href="/wiki/Axiom" title="Axiom">axioms</a> in a context relevant to <a href="/wiki/Set_theory" title="Set theory">set theory</a> and <a href="/wiki/Mathematical_logic" title="Mathematical logic">mathematical logic</a>.</li></ul>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#top">Top</a></li>
-<li><a href="#0–9">0–9</a></li>
-<li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#J">J</a></li>
-<li><a href="#K">K</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#Q">Q</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#V">V</a></li>
-<li><a href="#W">W</a></li>
-<li><a href="#X">X</a></li>
-<li><a href="#Y">Y</a></li>
-<li><a href="#Z">Z</a></li>
-<li><a href="#See_also">See also</a></li>
-<li><a href="#References">References</a></li>
-<li><a href="#External_links">External links</a></li></ul>
-</div></div></div>
 <ul><li><b><a href="/wiki/Bifurcation_theory" title="Bifurcation theory">Bifurcation theory</a></b>: the study of changes in the qualitative or topological structure of a given family. It is a part of <a href="/wiki/Dynamical_systems_theory" title="Dynamical systems theory">dynamical systems theory</a></li>
 <li><b><a href="/wiki/Biostatistics" title="Biostatistics">Biostatistics</a></b>: the development and application of <a href="/wiki/Statistical" class="mw-redirect" title="Statistical">statistical</a> methods to a wide range of topics in <a href="/wiki/Biology" title="Biology">biology</a>.</li>
 <li><b><a href="/wiki/Birational_geometry" title="Birational geometry">Birational geometry</a></b>: a part of <a href="/wiki/Algebraic_geometry" title="Algebraic geometry">algebraic geometry</a> that deals with the geometry (of an algebraic variety) that is dependent only on its <a href="/wiki/Function_field_of_an_algebraic_variety" title="Function field of an algebraic variety">function field</a>.</li>
@@ -167,43 +132,6 @@
 <li><b><a href="/wiki/Coordinate_geometry" class="mw-redirect" title="Coordinate geometry">Coordinate geometry</a></b>: see <i>analytic geometry</i></li>
 <li><b><a href="/wiki/CR_geometry" class="mw-redirect" title="CR geometry">CR geometry</a></b>: a branch of <a href="/wiki/Differential_geometry" title="Differential geometry">differential geometry</a>, being the study of <a href="/wiki/CR_manifold" title="CR manifold">CR manifolds</a>.</li>
 <li><b><a href="/wiki/Cryptography" title="Cryptography">Cryptography</a></b></li></ul>
-<p><br />
-</p>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#top">Top</a></li>
-<li><a href="#0–9">0–9</a></li>
-<li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#J">J</a></li>
-<li><a href="#K">K</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#Q">Q</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#V">V</a></li>
-<li><a href="#W">W</a></li>
-<li><a href="#X">X</a></li>
-<li><a href="#Y">Y</a></li>
-<li><a href="#Z">Z</a></li>
-<li><a href="#See_also">See also</a></li>
-<li><a href="#References">References</a></li>
-<li><a href="#External_links">External links</a></li></ul>
-</div></div></div>
 <ul><li><b><a href="/wiki/Decision_analysis" title="Decision analysis">Decision analysis</a></b></li>
 <li><b><a href="/wiki/Decision_theory" title="Decision theory">Decision theory</a></b></li>
 <li><b><a href="/wiki/Noncommutative_algebraic_geometry" title="Noncommutative algebraic geometry">Derived noncommutative algebraic geometry</a></b></li>
@@ -250,43 +178,6 @@
 <li><b><a href="/wiki/Extraordinary_cohomology_theory" class="mw-redirect" title="Extraordinary cohomology theory">Extraordinary cohomology theory</a></b></li>
 <li><b><a href="/wiki/Extremal_combinatorics" title="Extremal combinatorics">Extremal combinatorics</a></b>: a branch of combinatorics, it is the study of the possible sizes of a collection of finite objects given certain restrictions.</li>
 <li><b><a href="/wiki/Extremal_graph_theory" title="Extremal graph theory">Extremal graph theory</a></b>: a branch of mathematics that studies how global properties of a graph influence local substructure.</li></ul>
-<p><br />
-</p>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#top">Top</a></li>
-<li><a href="#0–9">0–9</a></li>
-<li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#J">J</a></li>
-<li><a href="#K">K</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#Q">Q</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#V">V</a></li>
-<li><a href="#W">W</a></li>
-<li><a href="#X">X</a></li>
-<li><a href="#Y">Y</a></li>
-<li><a href="#Z">Z</a></li>
-<li><a href="#See_also">See also</a></li>
-<li><a href="#References">References</a></li>
-<li><a href="#External_links">External links</a></li></ul>
-</div></div></div>
 <ul><li><b><a href="/wiki/Field_theory_(mathematics)" class="mw-redirect" title="Field theory (mathematics)">Field theory</a></b>: branch of abstract algebra studying <a href="/wiki/Field_(mathematics)" title="Field (mathematics)">fields</a>.</li>
 <li><b><a href="/wiki/Finite_geometry" title="Finite geometry">Finite geometry</a></b></li>
 <li><b><a href="/wiki/Finite_model_theory" title="Finite model theory">Finite model theory</a></b>: a restriction of <a href="/wiki/Model_theory" title="Model theory">model theory</a> to <a href="/wiki/Interpretation_(logic)" title="Interpretation (logic)">interpretations</a> on finite <a href="/wiki/Structure_(mathematical_logic)" title="Structure (mathematical logic)">structures</a>, which have a finite universe.</li>
@@ -308,43 +199,6 @@
 <li><b><a href="/w/index.php?title=Fuzzy_qualitative_trigonometry&amp;action=edit&amp;redlink=1" class="new" title="Fuzzy qualitative trigonometry (page does not exist)">Fuzzy qualitative trigonometry</a></b></li>
 <li><b><a href="/wiki/Fuzzy_set_theory" class="mw-redirect" title="Fuzzy set theory">Fuzzy set theory</a></b>: a form of <a href="/wiki/Set_theory" title="Set theory">set theory</a> that studies <a href="/wiki/Fuzzy_set" title="Fuzzy set">fuzzy sets</a>, that is <a href="/wiki/Set_(mathematics)" title="Set (mathematics)">sets</a> that have degrees of membership.</li>
 <li><b><a href="/w/index.php?title=Fuzzy_topology&amp;action=edit&amp;redlink=1" class="new" title="Fuzzy topology (page does not exist)">Fuzzy topology</a></b></li></ul>
-<p><br />
-</p>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#top">Top</a></li>
-<li><a href="#0–9">0–9</a></li>
-<li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#J">J</a></li>
-<li><a href="#K">K</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#Q">Q</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#V">V</a></li>
-<li><a href="#W">W</a></li>
-<li><a href="#X">X</a></li>
-<li><a href="#Y">Y</a></li>
-<li><a href="#Z">Z</a></li>
-<li><a href="#See_also">See also</a></li>
-<li><a href="#References">References</a></li>
-<li><a href="#External_links">External links</a></li></ul>
-</div></div></div>
 <ul><li><b><a href="/wiki/Galois_cohomology" title="Galois cohomology">Galois cohomology</a></b>: an application of <a href="/wiki/Homological_algebra" title="Homological algebra">homological algebra</a>, it is the study of <a href="/wiki/Group_cohomology" title="Group cohomology">group cohomology</a> of <a href="/wiki/Galois_module" title="Galois module">Galois modules</a>.</li>
 <li><b><a href="/wiki/Galois_theory" title="Galois theory">Galois theory</a></b>: named after <a href="/wiki/%C3%89variste_Galois" title="Évariste Galois">Évariste Galois</a>, it is a branch of abstract algebra providing a connection between <a href="/wiki/Field_theory_(mathematics)" class="mw-redirect" title="Field theory (mathematics)">field theory</a> and <a href="/wiki/Group_theory" title="Group theory">group theory</a>.</li>
 <li><b><a href="/wiki/Galois_geometry" title="Galois geometry">Galois geometry</a></b>: a branch of <a href="/wiki/Finite_geometry" title="Finite geometry">finite geometry</a> concerned with algebraic and <a href="/wiki/Analytic_geometry" title="Analytic geometry">analytic</a> geometry over a <a href="/wiki/Galois_field" class="mw-redirect" title="Galois field">Galois field</a>.</li>
@@ -372,43 +226,6 @@
 <li><b><a href="/wiki/Group_representation_theory" class="mw-redirect" title="Group representation theory">Group representation theory</a></b></li>
 <li><b><a href="/wiki/Group_theory" title="Group theory">Group theory</a></b>: the study of <a href="/wiki/Algebraic_structure" title="Algebraic structure">algebraic structures</a> known as <a href="/wiki/Group_(mathematics)" title="Group (mathematics)">groups</a>.</li>
 <li><b><a href="/wiki/Gyrotrigonometry" class="mw-redirect" title="Gyrotrigonometry">Gyrotrigonometry</a></b>: a form of <a href="/wiki/Trigonometry" title="Trigonometry">trigonometry</a> used in <a href="/wiki/Gyrovector_space" title="Gyrovector space">gyrovector space</a> for <a href="/wiki/Hyperbolic_geometry" title="Hyperbolic geometry">hyperbolic geometry</a>. (An analogy of the <a href="/wiki/Vector_space" title="Vector space">vector space</a> in Euclidean geometry.)</li></ul>
-<p><br />
-</p>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#top">Top</a></li>
-<li><a href="#0–9">0–9</a></li>
-<li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#J">J</a></li>
-<li><a href="#K">K</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#Q">Q</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#V">V</a></li>
-<li><a href="#W">W</a></li>
-<li><a href="#X">X</a></li>
-<li><a href="#Y">Y</a></li>
-<li><a href="#Z">Z</a></li>
-<li><a href="#See_also">See also</a></li>
-<li><a href="#References">References</a></li>
-<li><a href="#External_links">External links</a></li></ul>
-</div></div></div>
 <ul><li><b><a href="/wiki/Hard_analysis" class="mw-redirect" title="Hard analysis">Hard analysis</a></b>: see <i>classical analysis</i></li>
 <li><b><a href="/wiki/Harmonic_analysis" title="Harmonic analysis">Harmonic analysis</a></b>: part of analysis concerned with the representations of <a href="/wiki/Function_(mathematics)" title="Function (mathematics)">functions</a> in terms of <a href="/wiki/Wave" title="Wave">waves</a>. It generalizes the notions of <a href="/wiki/Fourier_series" title="Fourier series">Fourier series</a> and <a href="/wiki/Fourier_transforms" class="mw-redirect" title="Fourier transforms">Fourier transforms</a> from the <a href="/wiki/Fourier_analysis" title="Fourier analysis">Fourier analysis</a>.</li>
 <li><b><a href="/w/index.php?title=High-dimensional_topology&amp;action=edit&amp;redlink=1" class="new" title="High-dimensional topology (page does not exist)">High-dimensional topology</a></b></li>
@@ -444,43 +261,6 @@
 <li><b><a href="/wiki/It%C3%B4_calculus" title="Itô calculus">Itô calculus</a></b>:  extends the methods of calculus to <a href="/wiki/Stochastic_process" title="Stochastic process">stochastic processes</a> such as <a href="/wiki/Brownian_motion" title="Brownian motion">Brownian motion</a> (see <a href="/wiki/Wiener_process" title="Wiener process">Wiener process</a>). It has important applications in <a href="/wiki/Mathematical_finance" title="Mathematical finance">mathematical finance</a> and <a href="/wiki/Stochastic_differential_equation" title="Stochastic differential equation">stochastic differential equations</a>.</li>
 <li><b><a href="/wiki/Iwasawa_theory" title="Iwasawa theory">Iwasawa theory</a></b>: the study of objects of arithmetic interest over infinite <a href="/wiki/Tower_of_fields" title="Tower of fields">towers</a> of <a href="/wiki/Number_field" class="mw-redirect" title="Number field">number fields</a>.</li></ul>
 <ul><li><b><a href="/wiki/Job_shop_scheduling" title="Job shop scheduling">Job shop scheduling</a></b></li></ul>
-<p><br />
-</p>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#top">Top</a></li>
-<li><a href="#0–9">0–9</a></li>
-<li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#J">J</a></li>
-<li><a href="#K">K</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#Q">Q</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#V">V</a></li>
-<li><a href="#W">W</a></li>
-<li><a href="#X">X</a></li>
-<li><a href="#Y">Y</a></li>
-<li><a href="#Z">Z</a></li>
-<li><a href="#See_also">See also</a></li>
-<li><a href="#References">References</a></li>
-<li><a href="#External_links">External links</a></li></ul>
-</div></div></div>
 <ul><li><b><a href="/wiki/K-theory" title="K-theory">K-theory</a></b>: originated as the study of a <a href="/wiki/Ring_(mathematics)" title="Ring (mathematics)">ring</a> generated by <a href="/wiki/Vector_bundle" title="Vector bundle">vector bundles</a> over a <a href="/wiki/Topological_space" title="Topological space">topological space</a> or <a href="/wiki/Scheme_(mathematics)" title="Scheme (mathematics)">scheme</a>. In algebraic topology it is an <a href="/wiki/Extraordinary_cohomology_theory" class="mw-redirect" title="Extraordinary cohomology theory">extraordinary cohomology theory</a> known as <a href="/wiki/Topological_K-theory" title="Topological K-theory">topological K-theory</a>. In algebra and algebraic geometry it is referred to as <a href="/wiki/Algebraic_K-theory" title="Algebraic K-theory">algebraic K-theory</a>. In <a href="/wiki/Mathematical_physics" title="Mathematical physics">physics</a>, <a href="/wiki/K-theory_(physics)" title="K-theory (physics)">K-theory</a> has appeared in <a href="/wiki/Type_II_string_theory" title="Type II string theory">type II string theory</a>. (In particular <a href="/wiki/Twisted_K-theory" title="Twisted K-theory">twisted K-theory</a>.)</li>
 <li><b><a href="/wiki/K-homology" title="K-homology">K-homology</a></b>: a <a href="/wiki/Homology_(mathematics)" title="Homology (mathematics)">homology</a> theory on the <a href="/wiki/Category_(mathematics)" title="Category (mathematics)">category</a> of locally <a href="/wiki/Compact_space" title="Compact space">compact</a> <a href="/wiki/Hausdorff_space" title="Hausdorff space">Hausdorff spaces</a>.</li>
 <li><b><a href="/wiki/K%C3%A4hler_manifold" title="Kähler manifold">Kähler geometry</a></b>: a branch of <a href="/wiki/Differential_geometry" title="Differential geometry">differential geometry</a>, more specifically a union of <a href="/wiki/Riemannian_geometry" title="Riemannian geometry">Riemannian geometry</a>, <a href="/wiki/Differential_geometry" title="Differential geometry">complex differential geometry</a> and <a href="/wiki/Symplectic_geometry" title="Symplectic geometry">symplectic geometry</a>. It is the study of <a href="/wiki/K%C3%A4hler_manifold" title="Kähler manifold">Kähler manifolds</a>. (named after <a href="/wiki/Erich_K%C3%A4hler" title="Erich Kähler">Erich Kähler</a>)</li>
@@ -506,43 +286,6 @@
 <li><b><a href="/w/index.php?title=P-adic_dynamics&amp;action=edit&amp;redlink=1" class="new" title="P-adic dynamics (page does not exist)">Local arithmetic dynamics</a></b>: also known as <i>p-adic dynamics</i> or <i>nonarchimedean dynamics</i>.</li>
 <li><b><a href="/wiki/Local_class_field_theory" title="Local class field theory">Local class field theory</a></b>: the study of <a href="/wiki/Abelian_extension" title="Abelian extension">abelian extensions</a> of <a href="/wiki/Local_field" title="Local field">local fields</a>.</li>
 <li><b><a href="/wiki/Low-dimensional_topology" title="Low-dimensional topology">Low-dimensional topology</a></b>: the branch of <a href="/wiki/Topology" title="Topology">topology</a> that studies <a href="/wiki/Manifold" title="Manifold">manifolds</a>, or more generally topological spaces, of four or fewer <a href="/wiki/Dimension" title="Dimension">dimensions</a>.</li></ul>
-<p><br />
-</p>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#top">Top</a></li>
-<li><a href="#0–9">0–9</a></li>
-<li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#J">J</a></li>
-<li><a href="#K">K</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#Q">Q</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#V">V</a></li>
-<li><a href="#W">W</a></li>
-<li><a href="#X">X</a></li>
-<li><a href="#Y">Y</a></li>
-<li><a href="#Z">Z</a></li>
-<li><a href="#See_also">See also</a></li>
-<li><a href="#References">References</a></li>
-<li><a href="#External_links">External links</a></li></ul>
-</div></div></div>
 <ul><li><b><a href="/wiki/Malliavin_calculus" title="Malliavin calculus">Malliavin calculus</a></b>: a set of mathematical techniques and ideas that extend the mathematical field of <a href="/wiki/Calculus_of_variations" title="Calculus of variations">calculus of variations</a> from  deterministic functions to <a href="/wiki/Stochastic_processes" class="mw-redirect" title="Stochastic processes">stochastic processes</a>.</li>
 <li><b><a href="/wiki/Mathematical_biology" class="mw-redirect" title="Mathematical biology">Mathematical biology</a></b>: the <a href="/wiki/Mathematical_modeling" class="mw-redirect" title="Mathematical modeling">mathematical modeling</a> of biological phenomena.</li>
 <li><b><a href="/wiki/Mathematical_chemistry" title="Mathematical chemistry">Mathematical chemistry</a></b>: the <a href="/wiki/Mathematical_modeling" class="mw-redirect" title="Mathematical modeling">mathematical modeling</a> of chemical phenomena.</li>
@@ -595,43 +338,6 @@
 <li><b><a href="/wiki/Numerical_analysis" title="Numerical analysis">Numerical analysis</a></b></li>
 <li><b><a href="/w/index.php?title=Numerical_geometry&amp;action=edit&amp;redlink=1" class="new" title="Numerical geometry (page does not exist)">Numerical geometry</a></b></li>
 <li><b><a href="/wiki/Numerical_linear_algebra" title="Numerical linear algebra">Numerical linear algebra</a></b></li></ul>
-<p><br />
-</p>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#top">Top</a></li>
-<li><a href="#0–9">0–9</a></li>
-<li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#J">J</a></li>
-<li><a href="#K">K</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#Q">Q</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#V">V</a></li>
-<li><a href="#W">W</a></li>
-<li><a href="#X">X</a></li>
-<li><a href="#Y">Y</a></li>
-<li><a href="#Z">Z</a></li>
-<li><a href="#See_also">See also</a></li>
-<li><a href="#References">References</a></li>
-<li><a href="#External_links">External links</a></li></ul>
-</div></div></div>
 <ul><li><b><a href="/wiki/Operad_theory" class="mw-redirect" title="Operad theory">Operad theory</a></b>: a type of abstract algebra concerned with prototypical <a href="/wiki/Algebra_over_a_field" title="Algebra over a field">algebras</a>.</li>
 <li><b><a href="/wiki/Operation_research" class="mw-redirect" title="Operation research">Operation research</a></b></li>
 <li><b><a href="/w/index.php?title=Operator_geometry&amp;action=edit&amp;redlink=1" class="new" title="Operator geometry (page does not exist)">Operator geometry</a></b></li>
@@ -673,43 +379,6 @@
 <li><b><a href="/wiki/Proof_theory" title="Proof theory">Proof theory</a></b></li>
 <li><b><a href="/wiki/Pseudo-Riemannian_geometry" class="mw-redirect" title="Pseudo-Riemannian geometry">Pseudo-Riemannian geometry</a></b>: generalizes <a href="/wiki/Riemannian_geometry" title="Riemannian geometry">Riemannian geometry</a> to the study of <a href="/wiki/Pseudo-Riemannian_manifold" title="Pseudo-Riemannian manifold">pseudo-Riemannian manifolds</a>.</li>
 <li><b><a href="/wiki/Pure_mathematics" title="Pure mathematics">Pure mathematics</a></b>: the part of mathematics that studies entirely abstract concepts.</li></ul>
-<p><br />
-</p>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#top">Top</a></li>
-<li><a href="#0–9">0–9</a></li>
-<li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#J">J</a></li>
-<li><a href="#K">K</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#Q">Q</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#V">V</a></li>
-<li><a href="#W">W</a></li>
-<li><a href="#X">X</a></li>
-<li><a href="#Y">Y</a></li>
-<li><a href="#Z">Z</a></li>
-<li><a href="#See_also">See also</a></li>
-<li><a href="#References">References</a></li>
-<li><a href="#External_links">External links</a></li></ul>
-</div></div></div>
 <ul><li><b><a href="/wiki/Quantum_calculus" title="Quantum calculus">Quantum calculus</a></b>: a form of calculus without the notion of <a href="/wiki/Limit_(mathematics)" title="Limit (mathematics)">limits</a>. There are 2 forms known as <a href="/wiki/Q-calculus" class="mw-redirect" title="Q-calculus">q-calculus</a> and <a href="/w/index.php?title=H-calculus&amp;action=edit&amp;redlink=1" class="new" title="H-calculus (page does not exist)">h-calculus</a></li>
 <li><b><a href="/wiki/Quantum_geometry" title="Quantum geometry">Quantum geometry</a></b>: the generalization of concepts of geometry used to describe the <a href="/wiki/Physics" title="Physics">physical</a> phenomena of <a href="/wiki/Quantum_physics" class="mw-redirect" title="Quantum physics">quantum physics</a></li>
 <li><b><a href="/wiki/Quaternion" title="Quaternion">Quaternionic analysis</a></b></li></ul>
@@ -739,43 +408,6 @@
 <li><b><a href="/wiki/Ribbon_theory" title="Ribbon theory">Ribbon theory</a></b>: a branch of <a href="/wiki/Topology" title="Topology">topology</a> studying <a href="/wiki/Ribbon_(mathematics)" title="Ribbon (mathematics)">ribbons</a>.</li>
 <li><b><a href="/wiki/Riemannian_geometry" title="Riemannian geometry">Riemannian geometry</a></b>: a branch of <a href="/wiki/Differential_geometry" title="Differential geometry">differential geometry</a> that is more specifically, the study of <a href="/wiki/Riemannian_manifolds" class="mw-redirect" title="Riemannian manifolds">Riemannian manifolds</a>. It is named after <a href="/wiki/Bernhard_Riemann" title="Bernhard Riemann">Bernhard Riemann</a> and it features many generalizations of concepts from Euclidean geometry, analysis and calculus.</li>
 <li><b><a href="/wiki/Rough_set" title="Rough set">Rough set theory</a></b>: the a form of <a href="/wiki/Set_theory" title="Set theory">set theory</a> based on <a href="/wiki/Rough_set" title="Rough set">rough sets</a>.</li></ul>
-<p><br />
-</p>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#top">Top</a></li>
-<li><a href="#0–9">0–9</a></li>
-<li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#J">J</a></li>
-<li><a href="#K">K</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#Q">Q</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#V">V</a></li>
-<li><a href="#W">W</a></li>
-<li><a href="#X">X</a></li>
-<li><a href="#Y">Y</a></li>
-<li><a href="#Z">Z</a></li>
-<li><a href="#See_also">See also</a></li>
-<li><a href="#References">References</a></li>
-<li><a href="#External_links">External links</a></li></ul>
-</div></div></div>
 <ul><li><b><a href="/wiki/Sampling_(statistics)" title="Sampling (statistics)">Sampling theory</a></b></li>
 <li><b><a href="/wiki/Scheme_(mathematics)" title="Scheme (mathematics)">Scheme theory</a></b>: the study of <a href="/wiki/Scheme_(mathematics)" title="Scheme (mathematics)">schemes</a> introduced by <a href="/wiki/Alexander_Grothendieck" title="Alexander Grothendieck">Alexander Grothendieck</a>. It allows the use of <a href="/wiki/Sheaf_theory" class="mw-redirect" title="Sheaf theory">sheaf theory</a> to study algebraic varieties and is considered the central part of <i>modern algebraic geometry</i>.</li>
 <li><b><a href="/wiki/Secondary_calculus" class="mw-redirect" title="Secondary calculus">Secondary calculus</a></b></li>
@@ -822,43 +454,6 @@
 <li><span id="synthetic-geometry"></span><b><a href="/wiki/Synthetic_geometry" title="Synthetic geometry">Synthetic geometry</a></b>: also known as <b>axiomatic geometry</b>, it is a branch of geometry that uses <a href="/wiki/Axioms" class="mw-redirect" title="Axioms">axioms</a> and <a href="/wiki/Logical_argument" class="mw-redirect" title="Logical argument">logical arguments</a> to draw conclusions as opposed to <a href="/wiki/Analytic_geometry" title="Analytic geometry">analytic</a> and algebraic methods.</li>
 <li><b><a href="/wiki/Systolic_geometry" title="Systolic geometry">Systolic geometry</a></b>: a branch of <a href="/wiki/Differential_geometry" title="Differential geometry">differential geometry</a> studying systolic <a href="/wiki/Invariant_(mathematics)" title="Invariant (mathematics)">invariants</a> of <a href="/wiki/Manifold" title="Manifold">manifolds</a> and <a href="/wiki/Polyhedra" class="mw-redirect" title="Polyhedra">polyhedra</a>.</li>
 <li><b><a href="/wiki/Systolic_geometry" title="Systolic geometry">Systolic hyperbolic geometry</a></b>: the study of <a href="/wiki/Systolic_geometry" title="Systolic geometry">systoles</a> in <a href="/wiki/Hyperbolic_geometry" title="Hyperbolic geometry">hyperbolic geometry</a>.</li></ul>
-<p><br />
-</p>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#top">Top</a></li>
-<li><a href="#0–9">0–9</a></li>
-<li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#J">J</a></li>
-<li><a href="#K">K</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#Q">Q</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#V">V</a></li>
-<li><a href="#W">W</a></li>
-<li><a href="#X">X</a></li>
-<li><a href="#Y">Y</a></li>
-<li><a href="#Z">Z</a></li>
-<li><a href="#See_also">See also</a></li>
-<li><a href="#References">References</a></li>
-<li><a href="#External_links">External links</a></li></ul>
-</div></div></div>
 <ul><li><b><a href="/wiki/Tensor_analysis" class="mw-redirect" title="Tensor analysis">Tensor analysis</a></b>: the study of <a href="/wiki/Tensor" title="Tensor">tensors</a>, which play a role in subjects such as <a href="/wiki/Differential_geometry" title="Differential geometry">differential geometry</a>, <a href="/wiki/Mathematical_physics" title="Mathematical physics">mathematical physics</a>, algebraic topology, <a href="/wiki/Multilinear_algebra" title="Multilinear algebra">multilinear algebra</a>, <a href="/wiki/Homological_algebra" title="Homological algebra">homological algebra</a> and <a href="/wiki/Representation_theory" title="Representation theory">representation theory</a>.</li>
 <li><b><a href="/wiki/Tensor_calculus" title="Tensor calculus">Tensor calculus</a></b>: an older term for <i>tensor analysis</i>.</li>
 <li><b><a href="/wiki/Tensor" title="Tensor">Tensor theory</a></b>: an alternative name for <i>tensor analysis</i>.</li>
@@ -882,43 +477,6 @@
 <li><b><a href="/wiki/Tropical_geometry" title="Tropical geometry">Tropical geometry</a></b></li>
 <li><b><a href="/wiki/Twisted_K-theory" title="Twisted K-theory">Twisted K-theory</a></b>: a variation on <a href="/wiki/K-theory" title="K-theory">K-theory</a>, spanning abstract algebra, algebraic topology and <a href="/wiki/Operator_theory" title="Operator theory">operator theory</a>.</li>
 <li><b><a href="/wiki/Type_theory" title="Type theory">Type theory</a></b></li></ul>
-<p><br />
-</p>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#top">Top</a></li>
-<li><a href="#0–9">0–9</a></li>
-<li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#J">J</a></li>
-<li><a href="#K">K</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#Q">Q</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#V">V</a></li>
-<li><a href="#W">W</a></li>
-<li><a href="#X">X</a></li>
-<li><a href="#Y">Y</a></li>
-<li><a href="#Z">Z</a></li>
-<li><a href="#See_also">See also</a></li>
-<li><a href="#References">References</a></li>
-<li><a href="#External_links">External links</a></li></ul>
-</div></div></div>
 <ul><li><b><a href="/wiki/Umbral_calculus" title="Umbral calculus">Umbral calculus</a></b>: the study of <a href="/wiki/Sheffer_sequences" class="mw-redirect" title="Sheffer sequences">Sheffer sequences</a></li>
 <li><b><a href="/wiki/Uncertainty_theory" title="Uncertainty theory">Uncertainty theory</a></b>: a new branch of <a href="/wiki/Mathematics" title="Mathematics">mathematics</a> based on normality, monotonicity, self-duality, countable subadditivity, and product measure <a href="/wiki/Axiom" title="Axiom">axioms</a>.</li>
 <li><b><a href="/w/index.php?title=Unitary_representation_theory&amp;action=edit&amp;redlink=1" class="new" title="Unitary representation theory (page does not exist)">Unitary representation theory</a></b></li>
