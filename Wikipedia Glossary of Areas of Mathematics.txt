@@ -1,5 +1,5 @@
 Introduction (Wikipedia Glossary of Areas of Mathematics)|"
-<p>This repository has taken definitions outlined in <a href=""https://en.wikipedia.org/wiki/Glossary_of_areas_of_mathematics"">Wikipedia's Glossary of areas of mathematics</a> and put them into a form which can be easily learnt/revised using <a href=""https://apps.ankiweb.net/"">Anki</a> a cross platform app specifically designed for long term knowledge retention.</p>
+<p>This deck has taken definitions outlined in <a href=""https://en.wikipedia.org/wiki/Glossary_of_areas_of_mathematics"">Wikipedia's Glossary of areas of mathematics</a> and put them into a form which can be easily learnt/revised using <a href=""https://apps.ankiweb.net/"">Anki</a> a cross platform app specifically designed for long term knowledge retention.</p>
 <h2>Notes</h2>
 <p>Please note the modifications which have been made &amp; where you can find updates.</p>
 <ol align=""left"">
@@ -8,8 +8,8 @@ Introduction (Wikipedia Glossary of Areas of Mathematics)|"
 </ol>
 <p>Feel free to share the deck and give the repository a star so more people are likely to see this work and can get the most out of it.</p>
 <h2>License</h2>
-<p>Unless otherwise specified, everything in this repository is covered by the following licence:</p>
-<p>This repository uses material from the Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_areas_of_mathematics"">""Glossary of areas of mathematics""</a>, which is released under the <a href=""https://creativecommons.org/licenses/by-sa/3.0/"">Creative Commons Attribution-Share-Alike License 3.0</a>.</p>
+<p>Unless otherwise specified, everything in this deck is covered by the following licence:</p>
+<p>This deck uses material from the Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_areas_of_mathematics"">""Glossary of areas of mathematics""</a>, which is released under the <a href=""https://creativecommons.org/licenses/by-sa/3.0/"">Creative Commons Attribution-Share-Alike License 3.0</a>.</p>
 <p>To see this work in full go to <a href=""https://en.wikipedia.org/wiki/Glossary_of_areas_of_mathematics"">https://en.wikipedia.org/wiki/Glossary_of_areas_of_mathematics</a></p>
 "
 <b><a href=""https://en.wikipedia.org/wiki/Tensor"" title=""Tensor"">Absolute differential calculus</a></b> (Wikipedia Glossary of Areas of Mathematics)|The original name for <a href=""https://en.wikipedia.org/wiki/Tensor_calculus"" title=""Tensor calculus"">tensor calculus</a> developed around 1890.
